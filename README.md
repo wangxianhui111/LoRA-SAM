@@ -23,4 +23,5 @@ LoRA-SAM
 ![结果图](./image/8.png)
 
 ###点增强策略
-![结果图](./image/8.png)
+![结果图](./image/5.png)
+
